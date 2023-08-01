@@ -8,7 +8,13 @@ app_email = "osman@mail.com"
 app_license = "MIT"
 
 fixtures = [
-    "Custom Field"
+    {"doctype": "Custom Field",
+        "filters": [["dt", "=", "ToDo"],["fieldname", "=" ,"first_name"]]
+    },
+    {
+        "doctype": "Server Side Scripting",
+        "filters": [["first_name", "=", "Khalid"]]
+    }
 ]
 
 # Includes in <head>
