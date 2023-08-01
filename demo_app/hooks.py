@@ -8,7 +8,6 @@ app_email = "osman@mail.com"
 app_license = "MIT"
 
 fixtures = [
-    "Server Side Scripting",
     "Custom Field"
 ]
 
