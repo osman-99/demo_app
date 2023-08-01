@@ -7,6 +7,11 @@ app_description = "Study App"
 app_email = "osman@mail.com"
 app_license = "MIT"
 
+fixtures = [
+    # "Server Side Scripting",
+    {"dt": "Server Side Scripting", "filters": [["first_name", "!=", "NULL"]]}
+]
+
 # Includes in <head>
 # ------------------
 
