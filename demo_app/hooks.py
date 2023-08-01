@@ -8,8 +8,8 @@ app_email = "osman@mail.com"
 app_license = "MIT"
 
 fixtures = [
-    # "Server Side Scripting",
-    {"dt": "Server Side Scripting", "filters": [["first_name", "!=", "NULL"]]}
+    "Server Side Scripting",
+    "Custom Field"
 ]
 
 # Includes in <head>

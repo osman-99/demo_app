@@ -15,7 +15,8 @@
   "middle_name": "B",
   "mobile_number": null,
   "modified": "2023-07-31 16:48:20.559585",
-  "name": "SER-0001"
+  "name": "SER-0001",
+  "test": null
  },
  {
   "age": 0,
@@ -33,7 +34,8 @@
   "middle_name": "E",
   "mobile_number": null,
   "modified": "2023-07-31 09:40:25.619734",
-  "name": "SER-0002"
+  "name": "SER-0002",
+  "test": null
  },
  {
   "age": 30,
@@ -51,7 +53,8 @@
   "middle_name": "Mohammed",
   "mobile_number": null,
   "modified": "2023-07-31 09:55:06.469489",
-  "name": "SER-0003"
+  "name": "SER-0003",
+  "test": null
  },
  {
   "age": 0,
@@ -78,7 +81,8 @@
   "middle_name": null,
   "mobile_number": null,
   "modified": "2023-07-31 10:23:57.912730",
-  "name": "SER-0004"
+  "name": "SER-0004",
+  "test": null
  },
  {
   "age": 0,
@@ -96,7 +100,8 @@
   "middle_name": null,
   "mobile_number": null,
   "modified": "2023-07-31 10:50:24.553110",
-  "name": "SER-0005"
+  "name": "SER-0005",
+  "test": null
  },
  {
   "age": 0,
@@ -114,7 +119,8 @@
   "middle_name": null,
   "mobile_number": null,
   "modified": "2023-07-31 11:02:14.118076",
-  "name": "SER-0006"
+  "name": "SER-0006",
+  "test": null
  },
  {
   "age": 0,
@@ -132,7 +138,8 @@
   "middle_name": null,
   "mobile_number": null,
   "modified": "2023-07-31 11:18:23.065502",
-  "name": "SER-0007"
+  "name": "SER-0007",
+  "test": null
  },
  {
   "age": 80,
@@ -150,7 +157,8 @@
   "middle_name": "4",
   "mobile_number": null,
   "modified": "2023-07-31 16:48:08.341244",
-  "name": "SER-0008"
+  "name": "SER-0008",
+  "test": null
  },
  {
   "age": 99,
@@ -168,7 +176,8 @@
   "middle_name": null,
   "mobile_number": null,
   "modified": "2023-07-31 16:47:57.571820",
-  "name": "SER-0009"
+  "name": "SER-0009",
+  "test": null
  },
  {
   "age": 10,
@@ -186,7 +195,8 @@
   "middle_name": null,
   "mobile_number": null,
   "modified": "2023-07-31 16:47:47.561485",
-  "name": "SER-0010"
+  "name": "SER-0010",
+  "test": null
  },
  {
   "age": 2,
@@ -213,6 +223,26 @@
   "middle_name": "Y",
   "mobile_number": "987654321",
   "modified": "2023-07-31 13:45:26.214136",
-  "name": "SER-0011"
+  "name": "SER-0011",
+  "test": null
+ },
+ {
+  "age": 0,
+  "amended_from": null,
+  "client_side_scripting": null,
+  "date_of_birth": null,
+  "docstatus": 0,
+  "doctype": "Server Side Scripting",
+  "email": null,
+  "enable": 1,
+  "family_members": [],
+  "first_name": null,
+  "full_name": null,
+  "last_name": null,
+  "middle_name": null,
+  "mobile_number": "123456789",
+  "modified": "2023-08-01 14:11:47.920436",
+  "name": "SER-0012",
+  "test": "ooooooooooooooooooooooooh"
  }
 ]
