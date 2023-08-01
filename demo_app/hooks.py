@@ -14,7 +14,7 @@ fixtures = [
     {
         "doctype": "Server Side Scripting",
         "filters": [["first_name", "=", "Khalid"]]
-    }
+    },
 ]
 
 # Includes in <head>
